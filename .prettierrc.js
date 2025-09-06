@@ -1,0 +1,21 @@
+module.exports = {
+  semi: true,
+  trailingComma: 'es5',
+  singleQuote: true,
+  printWidth: 100,
+  tabWidth: 2,
+  useTabs: false,
+  quoteProps: 'as-needed',
+  bracketSpacing: true,
+  bracketSameLine: false,
+  arrowParens: 'always',
+  endOfLine: 'lf',
+  overrides: [
+    {
+      files: ['*.json', '*.md'],
+      options: {
+        printWidth: 80,
+      },
+    },
+  ],
+};

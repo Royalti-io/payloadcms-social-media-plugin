@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm install)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(./node_modules/.bin/tsc:*)",
+      "Bash(echo $PWD)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
