@@ -18,12 +18,12 @@ This guide will help you install and configure the PayloadCMS Social Media Plugi
 In your PayloadCMS project directory, run:
 
 ```bash
-npm install github:nedjamez/payloadcms-social-media-plugin
+npm install github:Royalti-io/payloadcms-social-media-plugin
 ```
 
 Or with yarn:
 ```bash
-yarn add github:nedjamez/payloadcms-social-media-plugin
+yarn add github:Royalti-io/payloadcms-social-media-plugin
 ```
 
 ### 2. Add Plugin to Your PayloadCMS Config
@@ -249,7 +249,7 @@ If you get TypeScript errors:
 
 ## Need Help?
 
-- **Plugin Issues**: [GitHub Issues](https://github.com/nedjamez/payloadcms-social-media-plugin/issues)
+- **Plugin Issues**: [GitHub Issues](https://github.com/Royalti-io/payloadcms-social-media-plugin/issues)
 - **PayloadCMS Community**: [Discord](https://discord.gg/payload)
 - **Documentation**: Check the README.md file for detailed configuration options
 

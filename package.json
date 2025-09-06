@@ -32,11 +32,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/payloadcms/payload.git",
-    "directory": "packages/plugin-social-media"
+    "url": "https://github.com/Royalti-io/payloadcms-social-media-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/payloadcms/payload/issues"
+    "url": "https://github.com/Royalti-io/payloadcms-social-media-plugin/issues"
   },
   "homepage": "https://payloadcms.com",
   "peerDependencies": {

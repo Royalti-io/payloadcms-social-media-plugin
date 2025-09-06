@@ -22,12 +22,12 @@ A comprehensive social media integration plugin for PayloadCMS 3.0+ that enables
 ### From GitHub (Recommended for now)
 
 ```bash
-npm install github:nedjamez/payloadcms-social-media-plugin
+npm install github:Royalti-io/payloadcms-social-media-plugin
 ```
 
 Or with yarn:
 ```bash
-yarn add github:nedjamez/payloadcms-social-media-plugin
+yarn add github:Royalti-io/payloadcms-social-media-plugin
 ```
 
 ### Requirements
@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Documentation**: Full documentation available in the `/docs` folder
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/nedjamez/payloadcms-social-media-plugin/issues)
+- **Issues**: Report bugs on [GitHub Issues](https://github.com/Royalti-io/payloadcms-social-media-plugin/issues)
 - **Discord**: Join the PayloadCMS community for support
 
 ## 🚗 Roadmap
