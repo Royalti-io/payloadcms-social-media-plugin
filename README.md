@@ -30,6 +30,11 @@ Or with yarn:
 yarn add github:Royalti-io/payloadcms-social-media-plugin
 ```
 
+When published to npm:
+```bash
+npm install payloadcms-social-media-plugin
+```
+
 ### Requirements
 
 - PayloadCMS 3.0 or higher

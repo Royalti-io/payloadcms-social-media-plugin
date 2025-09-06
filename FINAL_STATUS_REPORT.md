@@ -110,12 +110,12 @@ The PayloadCMS Social Media Plugin has been successfully implemented and all cri
 
 ### **Basic Installation**
 ```bash
-npm install @payloadcms/plugin-social-media
+npm install payloadcms-social-media-plugin
 ```
 
 ### **Configuration**
 ```typescript
-import { socialMediaPlugin } from '@payloadcms/plugin-social-media'
+import { socialMediaPlugin } from 'payloadcms-social-media-plugin'
 
 export default buildConfig({
   plugins: [

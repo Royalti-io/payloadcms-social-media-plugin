@@ -1,5 +1,5 @@
 {
-  "name": "@payloadcms/plugin-social-media",
+  "name": "payloadcms-social-media-plugin",
   "version": "1.0.0",
   "description": "Social media integration plugin for PayloadCMS 3.0+",
   "keywords": [
@@ -28,7 +28,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "PayloadCMS",
+  "author": "Royalti.io",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -37,7 +37,7 @@
   "bugs": {
     "url": "https://github.com/Royalti-io/payloadcms-social-media-plugin/issues"
   },
-  "homepage": "https://payloadcms.com",
+  "homepage": "https://github.com/Royalti-io/payloadcms-social-media-plugin#readme",
   "peerDependencies": {
     "payload": ">=3.0.0"
   },

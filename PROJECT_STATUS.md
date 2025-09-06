@@ -111,13 +111,13 @@ src/
 
 ### **1. Installation**
 ```bash
-npm install @payloadcms/plugin-social-media
+npm install payloadcms-social-media-plugin
 ```
 
 ### **2. Basic Configuration**
 ```typescript
 // payload.config.ts
-import { socialMediaPlugin } from '@payloadcms/plugin-social-media'
+import { socialMediaPlugin } from 'payloadcms-social-media-plugin'
 
 export default buildConfig({
   plugins: [
